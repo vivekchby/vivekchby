@@ -12,9 +12,6 @@ I am a third-year Computer Science Engineering student at PEC Chandigarh, with a
 ![](https://nirzak-streak-stats.vercel.app/?user=vivekchby&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekchby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivekchby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -24,7 +21,7 @@ I am a third-year Computer Science Engineering student at PEC Chandigarh, with a
 ---
 [![](https://visitcount.itsvg.in/api?id=vivekchby&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **vivekchby/vivekchby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
